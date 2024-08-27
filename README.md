@@ -1,9 +1,10 @@
 ## Hi there
 
-* I'm a Brazilian developer, coding in **C#**, **C++**, **JS**, **Python** (and briefly other languages). I code mainly softwares, programming languages and some utils libraries. I particularly like data processing, simulation, and compilation
-* I'm studying for a degree in Analysis and Systems development at the **SENAC**, **São Paulo**.
-* I have a degree in **Civil Engineering** and I have a specialization in **Software Engineering**.
-I'm currently developing a scientific calculator and architectural design project
+* I'm a Brazilian developer, coding in C#, C++, JS, Python (and briefly other languages). I code mainly software, programming languages, and some utility libraries. I particularly like data processing, simulation, and compilation.
+* I'm studying for a degree in Analysis and Systems Development at SENAC, São Paulo.
+* I have a degree in Civil Engineering and a specialization in Software Engineering.
+* I hold an MBA in Data Science from the University of São Paulo (USP).
+* I'm currently developing a scientific calculator and architectural design project.
 
 ## Main programming languages 
 
