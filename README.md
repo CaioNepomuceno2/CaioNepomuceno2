@@ -38,11 +38,31 @@ dos dados.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## 🚀 Projetos em destaque
+## ⚡ Gestão de ativos da distribuição
+
+Uma série de projetos com **dados abertos da ANEEL e do ONS**, do diagnóstico à decisão de investimento.
+Cada um valida os resultados contra baselines e números oficiais e explica as premissas e limitações.
+
+| Projeto | Pergunta | Resultado principal |
+|---|---|---|
+| [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Onde investir primeiro para reduzir DEC, FEC e compensações? | DEC recalculado bate com o oficial; carteira otimizada de R$ 20 mi gera VPL de R$ 108 mi contra R$ 46 mi da regra tradicional (premissas ilustrativas) |
+| [Quanto vale um religador](https://github.com/CaioNepomuceno2/automation-impact) | Quanto DEC um religador realmente evita, e quanto custa a indisponibilidade da telemetria? | Diferenças em diferenças: −16,6% no CHI do alimentador (IC 95% −24,8% a −7,5%); cada 1 p.p. de indisponibilidade custa 0,7 a 1,4 min de DEC/ano |
+| [GD × capacidade da rede](https://github.com/CaioNepomuceno2/gd-hosting-capacity) | Quais transformadores vão saturar com a solar dos telhados, e quando? | 11,6 mil trafos com GD acima da potência (5× em 3 anos); dos 1.000 apontados com dados até 2022, 802 saturaram até 2025 |
+| [Monitor de risco regulatório](https://github.com/CaioNepomuceno2/continuity-risk-monitor) | Em junho, quais conjuntos vão estourar o limite de DEC/FEC até dezembro? | 84% das violações identificadas com 85% de precisão; robô mensal no GitHub Actions, modelo para Power BI e painel |
+
+**Stack:** Python, pandas, DuckDB, SQL, LightGBM, inferência causal, otimização (MILP), GitHub Actions, Streamlit, Power BI.
+
+## 🔌 Operação do sistema elétrico
+
+| Projeto | Pergunta | Resultado principal |
+|---|---|---|
+| [Curtailment de eólicas e solares](https://github.com/CaioNepomuceno2/renewables-curtailment) | Quanta energia renovável o Brasil está jogando fora, onde e por quê? | 39 TWh cortados em 12 meses (22% da geração possível); previsor do dia seguinte erra 34% menos que a persistência |
+| [Previsão de carga × ONS](https://github.com/CaioNepomuceno2/ons-load-forecast) | Um modelo aberto prevê a carga de amanhã tão bem quanto o ONS? | Empata no SIN e erra menos no Sul, Nordeste e Norte; a média modelo + ONS reduz o erro do ONS em 12% |
+
+## 🛠️ Outros projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Dados abertos do setor elétrico, previsão de falhas e priorização de investimentos; inclui premissas e limitações | Python, SQL, LightGBM, otimização |
 <!-- | [Controle financeiro pessoal](https://github.com/CaioNepomuceno2/controle-financeiro-pessoal) | Projeção de fluxo de caixa de 18 meses com regras brasileiras (fatura de cartão, 13º, INSS), simuladores e testes | Python, Streamlit, SQLite, pytest | -->
 <!-- | [Independência financeira](https://github.com/CaioNepomuceno2/independencia-financeira) | Planejador financeiro em grade de 18 meses: dívidas, cartões, financiamentos e meta de patrimônio | React, TypeScript, Vite, Tailwind | -->
 | [Envio de e-mails com Python](https://github.com/CaioNepomuceno2/Basic_Email_Send) | CLI com templates, anexos, simulação, controle de ritmo e testes | Python, SMTP, Jinja2, pytest |
@@ -65,7 +85,8 @@ dos dados.
 2023  Python e Flask: sistema acadêmico no SENAC
 2024  Automação: robôs com Selenium e RPA, integração com Oracle
 2025  Engenharia de dados: pipelines em Parquet, indicadores, Power BI e apps em Streamlit
-2026  Ciência de dados, ETL com modelagem dimensional e projetos maiores (Godot + Blender)
+2026  Gestão de ativos com dados abertos do setor elétrico: previsão, inferência causal e otimização;
+      ETL com modelagem dimensional e projetos pessoais em Godot + Blender
 ```
 
 ## 📫 Contato
