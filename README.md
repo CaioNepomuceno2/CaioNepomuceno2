@@ -69,4 +69,3 @@ dos dados.
 ## 📫 Contato
 
 - GitHub: [@CaioNepomuceno2](https://github.com/CaioNepomuceno2)
-- Portfólio: [caionepomuceno2.github.io](https://caionepomuceno2.github.io)
