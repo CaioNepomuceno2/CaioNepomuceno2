@@ -43,15 +43,17 @@ dos dados.
 | Projeto | O que é | Stack |
 |---|---|---|
 | [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Dados abertos do setor elétrico, previsão de falhas e priorização de investimentos; inclui premissas e limitações | Python, SQL, LightGBM, otimização |
-| [Envio de e-mails com Python](https://github.com/CaioNepomuceno2/Basic_Email_Send) | CLI com templates, anexos, simulação, controle de ritmo e testes | Python, SMTP, Jinja2, pytest |
-| [Sistema de Gestão Universitária](https://github.com/CaioNepomuceno2/Projeto_Senac) | Projeto acadêmico em grupo com login e painéis por perfil | Python, Flask, SQLite |
-| [Automação para WhatsApp Web](https://github.com/CaioNepomuceno2/RoboWhatsapp) | Estudo de automação web com planilhas e testes; o README explica suas limitações | Python, Selenium, pandas |
+| [Controle financeiro pessoal](https://github.com/CaioNepomuceno2/controle-financeiro-pessoal) | Projeção de fluxo de caixa de 18 meses com regras brasileiras (fatura de cartão, 13º, INSS), simuladores e testes | Python, Streamlit, SQLite, pytest |
+| [Independência financeira](https://github.com/CaioNepomuceno2/independencia-financeira) | Planejador financeiro em grade de 18 meses: dívidas, cartões, financiamentos e meta de patrimônio | React, TypeScript, Vite, Tailwind |
+| [Envio de e-mails com Python](https://github.com/CaioNepomuceno2/email-sender-python) | CLI com templates, anexos, simulação, controle de ritmo e testes | Python, SMTP, Jinja2, pytest |
+| [Sistema de Gestão Universitária](https://github.com/CaioNepomuceno2/senac-university-management) | Projeto acadêmico em grupo com login e painéis por perfil | Python, Flask, SQLite |
+| [Automação para WhatsApp Web](https://github.com/CaioNepomuceno2/whatsapp-web-bot) | Estudo de automação web com planilhas e testes; o README explica suas limitações | Python, Selenium, pandas |
 
 <details>
 <summary><b>Outros estudos</b></summary>
 
-- [TypeScript: exemplos e desafios](https://github.com/CaioNepomuceno2/Typescript)
-- [Clone de interface com HTML e CSS](https://github.com/CaioNepomuceno2/InstragramCopy)
+- [TypeScript: exemplos e desafios](https://github.com/CaioNepomuceno2/typescript-studies)
+- [Clone de interface com HTML e CSS](https://github.com/CaioNepomuceno2/instagram-login-clone)
 
 </details>
 
