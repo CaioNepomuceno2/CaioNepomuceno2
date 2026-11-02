@@ -42,28 +42,16 @@ dos dados.
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**pipeline-etl-vendas**](https://github.com/CaioNepomuceno2/pipeline-etl-vendas) | Pipeline ETL com validação de dados, modelo dimensional (estrela) e análises em SQL | Python, pandas, SQL, SQLite, Parquet |
-| [**analise-diabetes-ml**](https://github.com/CaioNepomuceno2/analise-diabetes-ml) | Projeto de ciência de dados de ponta a ponta: EDA, tratamento de dados e comparação de modelos | pandas, scikit-learn, Jupyter |
-| [**controle-financeiro-pessoal**](https://github.com/CaioNepomuceno2/controle-financeiro-pessoal) | App de finanças pessoais com projeção de 18 meses, simulador de compras e dashboards | Python, Streamlit, Plotly, SQLite |
-| [**independencia-financeira**](https://github.com/CaioNepomuceno2/independencia-financeira) | Planilha de projeção financeira interativa com CRUD de transações e drill-down | React, TypeScript, Tailwind |
-| [**whatsapp-bot-automacao**](https://github.com/CaioNepomuceno2/whatsapp-bot-automacao) | Robô que envia mensagens em massa pelo WhatsApp Web a partir de uma planilha | Python, Selenium, pandas |
-| [**re1-remake-godot**](https://github.com/CaioNepomuceno2/re1-remake-godot) | Recriação de fã de um clássico do PS1 com pipeline de conteúdo 100% automatizado | Godot 4, Blender, Python |
+| [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Dados abertos do setor elétrico, previsão de falhas e priorização de investimentos; inclui premissas e limitações | Python, SQL, LightGBM, otimização |
+| [Envio de e-mails com Python](https://github.com/CaioNepomuceno2/Basic_Email_Send) | CLI com templates, anexos, simulação, controle de ritmo e testes | Python, SMTP, Jinja2, pytest |
+| [Sistema de Gestão Universitária](https://github.com/CaioNepomuceno2/Projeto_Senac) | Projeto acadêmico em grupo com login e painéis por perfil | Python, Flask, SQLite |
+| [Automação para WhatsApp Web](https://github.com/CaioNepomuceno2/RoboWhatsapp) | Estudo de automação web com planilhas e testes; o README explica suas limitações | Python, Selenium, pandas |
 
 <details>
-<summary><b>Outros projetos e trilha de estudos</b></summary>
+<summary><b>Outros estudos</b></summary>
 
-| Projeto | Descrição |
-|---|---|
-| [sistema-gestao-universitaria](https://github.com/CaioNepomuceno2/sistema-gestao-universitaria) | Sistema web com login por perfil (aluno, professor, diretor), projeto acadêmico do SENAC (Flask + SQLite) |
-| [email-sender-python](https://github.com/CaioNepomuceno2/email-sender-python) | CLI para envio de e-mails em massa com templates, anexos e modo de teste |
-| [python-fundamentos](https://github.com/CaioNepomuceno2/python-fundamentos) | Trilha de fundamentos de Python, do básico ao pandas, com testes |
-| [java-poo-fundamentos](https://github.com/CaioNepomuceno2/java-poo-fundamentos) | Orientação a objetos em Java com um sistema bancário e testes JUnit |
-| [csharp-cadastro-alunos](https://github.com/CaioNepomuceno2/csharp-cadastro-alunos) | Aplicação de console em C#/.NET para cadastro de alunos |
-| [estudo-typescript](https://github.com/CaioNepomuceno2/estudo-typescript) | Exemplos e desafios de TypeScript |
-| [estudo-html-css-js-sql](https://github.com/CaioNepomuceno2/estudo-html-css-js-sql) | Exercícios de HTML, CSS, JavaScript e SQL |
-| [estudo-clone-instagram](https://github.com/CaioNepomuceno2/estudo-clone-instagram) | Tela de login do Instagram com Flexbox |
-| [estudo-formulario-html](https://github.com/CaioNepomuceno2/estudo-formulario-html) | Formulário em HTML e CSS |
-| [estudo-git-github](https://github.com/CaioNepomuceno2/estudo-git-github) | Primeiro repositório, do curso de Git e GitHub (2021) |
+- [TypeScript: exemplos e desafios](https://github.com/CaioNepomuceno2/Typescript)
+- [Clone de interface com HTML e CSS](https://github.com/CaioNepomuceno2/InstragramCopy)
 
 </details>
 
