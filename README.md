@@ -45,10 +45,14 @@ Cada um valida os resultados contra baselines e números oficiais e explica as p
 |---|---|---|
 | [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Onde investir primeiro para reduzir DEC, FEC e compensações? | DEC recalculado bate com o oficial; com as eficácias medidas no projeto ao lado, a carteira otimizada de R$ 20 mi gera VPL de R$ 53 mi contra R$ 22 mi da regra "piores primeiro" |
 | [Quanto vale um religador](https://github.com/CaioNepomuceno2/automation-impact) | Quanto DEC um religador realmente evita, e quanto custa a indisponibilidade da telemetria? | Diferenças em diferenças: −16,6% no CHI do alimentador (IC 95% −24,8% a −7,5%); cada 1 p.p. de indisponibilidade custa 0,7 a 1,4 min de DEC/ano |
+| [Desempenho e posicionamento de religadores](https://github.com/CaioNepomuceno2/recloser-performance) | Os religadores estão no lugar certo? Onde instalar os próximos? | Topologia da rede de MT reconstruída (99,9% dos clientes ligados); 10% das zonas de proteção concentram 60% do risco; pelo modelo, 100 religadores nos locais indicados evitam 53 min de DEC/ano contra 10 min da regra por extensão |
+| [Saúde e criticidade de subestações](https://github.com/CaioNepomuceno2/substation-health-index) | Quais subestações têm maior risco, e por quê? | SEs sem folga N-1 foram ampliadas 3× mais que as demais (38% vs 14%); 56% dos clientes estão em alimentadores sem rota de transferência para outra SE |
+| [Vida útil de religadores e disjuntores](https://github.com/CaioNepomuceno2/switchgear-survival) | Quanto tempo duram e quantos trocar por ano? | Tábua de vida por safra e Weibull: vida mediana de ~28 anos para religadores; ~635 substituições previstas de 2026 a 2035 |
+| [Indicadores de telemetria SCADA](https://github.com/CaioNepomuceno2/scada-telemetry-kpis) | Como medir disponibilidade e assertividade da telemetria e priorizar a manutenção pelo valor? | Biblioteca aberta (DuckDB) validada contra a verdade em dados sintéticos; detecta degradação 21 dias antes; 12 milhões de eventos em 24 s |
 | [GD × capacidade da rede](https://github.com/CaioNepomuceno2/gd-hosting-capacity) | Quais transformadores vão saturar com a solar dos telhados, e quando? | 11,6 mil trafos com GD acima da potência (5× em 3 anos); dos 1.000 apontados com dados até 2022, 802 saturaram até 2025 |
 | [Monitor de risco regulatório](https://github.com/CaioNepomuceno2/continuity-risk-monitor) | Em junho, quais conjuntos vão estourar o limite de DEC/FEC até dezembro? | 84% das violações identificadas com 85% de precisão; robô mensal no GitHub Actions, modelo para Power BI e painel |
 
-**Stack:** Python, pandas, DuckDB, SQL, LightGBM, inferência causal, otimização (MILP), GitHub Actions, Streamlit, Power BI.
+**Stack:** Python, pandas, DuckDB, SQL, LightGBM, inferência causal, análise de sobrevivência, grafos, otimização (MILP), GitHub Actions, Streamlit, Power BI.
 
 ## 🔌 Operação do sistema elétrico
 
