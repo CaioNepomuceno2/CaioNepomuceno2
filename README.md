@@ -1,5 +1,3 @@
-# Olá, eu sou o Caio 👋
-
 **Dados e automação com Python** · Campo Grande, MS
 
 Trabalho transformando dados brutos em informação útil: pipelines de dados, indicadores, dashboards e robôs que
@@ -7,7 +5,7 @@ tiram tarefas repetitivas das mãos das pessoas. Venho da Engenharia Civil e mig
 dos dados.
 
 - 🎓 Graduação em **Engenharia Civil**, especialização em **Engenharia de Software** e **MBA em Data Science** pela **USP**
-- 📚 Cursando **Análise e Desenvolvimento de Sistemas** no **SENAC**
+- 📚 Graduação **Análise e Desenvolvimento de Sistemas**
 - ⚙️ No dia a dia: pipelines em Python/pandas sobre dados de telemetria (Parquet), cálculo de indicadores de
   disponibilidade e assertividade, consultas em Oracle/SQL, dashboards em Power BI e robôs de automação (RPA)
   para o setor elétrico
