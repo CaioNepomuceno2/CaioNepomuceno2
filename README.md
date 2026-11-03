@@ -45,7 +45,7 @@ Cada um valida os resultados contra baselines e números oficiais e explica as p
 
 | Projeto | Pergunta | Resultado principal |
 |---|---|---|
-| [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Onde investir primeiro para reduzir DEC, FEC e compensações? | DEC recalculado bate com o oficial; carteira otimizada de R$ 20 mi gera VPL de R$ 108 mi contra R$ 46 mi da regra tradicional (premissas ilustrativas) |
+| [Gestão de ativos baseada em risco](https://github.com/CaioNepomuceno2/distribution-asset-risk) | Onde investir primeiro para reduzir DEC, FEC e compensações? | DEC recalculado bate com o oficial; com as eficácias medidas no projeto ao lado, a carteira otimizada de R$ 20 mi gera VPL de R$ 53 mi contra R$ 22 mi da regra "piores primeiro" |
 | [Quanto vale um religador](https://github.com/CaioNepomuceno2/automation-impact) | Quanto DEC um religador realmente evita, e quanto custa a indisponibilidade da telemetria? | Diferenças em diferenças: −16,6% no CHI do alimentador (IC 95% −24,8% a −7,5%); cada 1 p.p. de indisponibilidade custa 0,7 a 1,4 min de DEC/ano |
 | [GD × capacidade da rede](https://github.com/CaioNepomuceno2/gd-hosting-capacity) | Quais transformadores vão saturar com a solar dos telhados, e quando? | 11,6 mil trafos com GD acima da potência (5× em 3 anos); dos 1.000 apontados com dados até 2022, 802 saturaram até 2025 |
 | [Monitor de risco regulatório](https://github.com/CaioNepomuceno2/continuity-risk-monitor) | Em junho, quais conjuntos vão estourar o limite de DEC/FEC até dezembro? | 84% das violações identificadas com 85% de precisão; robô mensal no GitHub Actions, modelo para Power BI e painel |
