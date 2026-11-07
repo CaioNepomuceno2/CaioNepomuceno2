@@ -10,7 +10,7 @@ dos dados.
   disponibilidade e assertividade, consultas em Oracle/SQL, dashboards em Power BI e robôs de automação (RPA)
   para o setor elétrico
 
-## 🛠️ Stack
+##  Stack
 
 **Dados:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,14 +54,14 @@ Cada um valida os resultados contra baselines e números oficiais e explica as p
 
 **Stack:** Python, pandas, DuckDB, SQL, LightGBM, inferência causal, análise de sobrevivência, grafos, otimização (MILP), GitHub Actions, Streamlit, Power BI.
 
-## 🔌 Operação do sistema elétrico
+##  Operação do sistema elétrico
 
 | Projeto | Pergunta | Resultado principal |
 |---|---|---|
 | [Curtailment de eólicas e solares](https://github.com/CaioNepomuceno2/renewables-curtailment) | Quanta energia renovável o Brasil está jogando fora, onde e por quê? | 39 TWh cortados em 12 meses (22% da geração possível); previsor do dia seguinte erra 34% menos que a persistência |
 | [Previsão de carga × ONS](https://github.com/CaioNepomuceno2/ons-load-forecast) | Um modelo aberto prevê a carga de amanhã tão bem quanto o ONS? | Empata no SIN e erra menos no Sul, Nordeste e Norte; a média modelo + ONS reduz o erro do ONS em 12% |
 
-## 🛠️ Outros projetos
+##  Outros projetos
 
 | Projeto | O que é | Stack |
 |---|---|---|
