@@ -4,9 +4,9 @@ Trabalho transformando dados brutos em informação útil: pipelines de dados, i
 tiram tarefas repetitivas das mãos das pessoas. Venho da Engenharia Civil e migrei para tecnologia pelo caminho
 dos dados.
 
-- 🎓 Graduação em **Engenharia Civil**, especialização em **Engenharia de Software** e **MBA em Data Science** pela **USP**
-- 📚 Graduação **Análise e Desenvolvimento de Sistemas**
-- ⚙️ No dia a dia: pipelines em Python/pandas sobre dados de telemetria (Parquet), cálculo de indicadores de
+- Graduação em **Engenharia Civil**, especialização em **Engenharia de Software** e **MBA em Data Science** pela **USP**
+- Graduação **Análise e Desenvolvimento de Sistemas**
+- No dia a dia: pipelines em Python/pandas sobre dados de telemetria (Parquet), cálculo de indicadores de
   disponibilidade e assertividade, consultas em Oracle/SQL, dashboards em Power BI e robôs de automação (RPA)
   para o setor elétrico
 
@@ -36,7 +36,7 @@ dos dados.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## ⚡ Gestão de ativos da distribuição
+## Gestão de ativos da distribuição
 
 Uma série de projetos com **dados abertos da ANEEL e do ONS**, do diagnóstico à decisão de investimento.
 Cada um valida os resultados contra baselines e números oficiais e explica as premissas e limitações.
@@ -79,7 +79,7 @@ Cada um valida os resultados contra baselines e números oficiais e explica as p
 
 </details>
 
-## 📈 Trajetória
+## Trajetória
 
 ```
 2021  HTML, CSS e Git: primeiros repositórios
